@@ -1,0 +1,148 @@
+TVACF
+v7
+r0
+t325748566.922339
+cCheck dependencies
+cCompileC build/VACF.build/Debug/VACF.build/Objects-normal/x86_64/main.o /Users/gruenero/Workspace/D3Q27/VACF/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/gruenero/Workspace/D3Q27/VACF/build/Debug/VACF normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/dirent.h
+c000000004BBD2CE900000000000016D3
+t1270689001
+s5843
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/stat.h
+c000000004C2399480000000000004A1D
+t1277401416
+s18973
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdbool.h
+c000000004A11EB240000000000000644
+t1242688292
+s1604
+
+N/Users/gruenero/Workspace/D3Q27/VACF/build/Debug/VACF
+t1304055763
+s14400
+
+N/Users/gruenero/Workspace/D3Q27/VACF/build/VACF.build/Debug/VACF.build/Objects-normal/x86_64/VACF.LinkFileList
+c000000004DB9AA560000000000000064
+t1304013398
+s100
+
+N/Users/gruenero/Workspace/D3Q27/VACF/build/VACF.build/Debug/VACF.build/Objects-normal/x86_64/main.o
+t1304055762
+s14536
+
+N/Users/gruenero/Workspace/D3Q27/VACF/main.c
+c000000004DBA4FD10000000000002265
+t1304055761
+s8805
+i<stdlib.h>
+i<string.h>
+i<stdio.h>
+i<dirent.h>
+i<sys/stat.h>
+i<stdbool.h>
+i<unistd.h>
+
+N/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/Debug/VACF
+t1295471621
+s14264
+
+N/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/VACF.build/Debug/VACF.build/Objects-normal/x86_64/VACF.LinkFileList
+c000000004D37080F0000000000000071
+t1295452175
+s113
+
+N/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/VACF.build/Debug/VACF.build/Objects-normal/x86_64/main.o
+t1295471615
+s11064
+
+N/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/main.c
+c000000004D376360000000000000179F
+t1295475552
+s6047
+i<stdlib.h>
+i<string.h>
+i<stdio.h>
+i<dirent.h>
+i<sys/stat.h>
+i<stdbool.h>
+i<unistd.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325748566#325748566#0(0"0(0#1#0"8602798176#0"0#
+
+CCompileC build/VACF.build/Debug/VACF.build/Objects-normal/x86_64/main.o /Users/gruenero/Workspace/D3Q27/VACF/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s325748562.171278
+e325748562.880661
+r1
+xCompileC
+xbuild/VACF.build/Debug/VACF.build/Objects-normal/x86_64/main.o
+x/Users/gruenero/Workspace/D3Q27/VACF/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/gruenero/Workspace/D3Q27/VACF/main.c325748562#325748562#0(0"0(0#0#43"/Users/gruenero/Workspace/D3Q27/VACF/main.c8011462186023858176#1194"    cd /Users/gruenero/Workspace/D3Q27/VACF    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gruenero/Workspace/D3Q27/VACF/build/VACF.build/Debug/VACF.build/VACF-generated-files.hmap -I/Users/gruenero/Workspace/D3Q27/VACF/build/VACF.build/Debug/VACF.build/VACF-own-target-headers.hmap -I/Users/gruenero/Workspace/D3Q27/VACF/build/VACF.build/Debug/VACF.build/VACF-all-target-headers.hmap -iquote /Users/gruenero/Workspace/D3Q27/VACF/build/VACF.build/Debug/VACF.build/VACF-project-headers.hmap -F/Users/gruenero/Workspace/D3Q27/VACF/build/Debug -I/Users/gruenero/Workspace/D3Q27/VACF/build/Debug/include -I/Users/gruenero/Workspace/D3Q27/VACF/build/VACF.build/Debug/VACF.build/DerivedSources/x86_64 -I/Users/gruenero/Workspace/D3Q27/VACF/build/VACF.build/Debug/VACF.build/DerivedSources -c /Users/gruenero/Workspace/D3Q27/VACF/main.c -o /Users/gruenero/Workspace/D3Q27/VACF/build/VACF.build/Debug/VACF.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/VACF.build/Debug/VACF.build/Objects-normal/x86_64/main.o /Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s317164421.479422
+e317164421.480371
+r1
+xCompileC
+xbuild/VACF.build/Debug/VACF.build/Objects-normal/x86_64/main.o
+x/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/main.c317164421#317164421#0(0"0(0#0#56"/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/main.c4300885448#1337"    cd /Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/VACF.build/Debug/VACF.build/VACF-generated-files.hmap -I/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/VACF.build/Debug/VACF.build/VACF-own-target-headers.hmap -I/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/VACF.build/Debug/VACF.build/VACF-all-target-headers.hmap -iquote /Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/VACF.build/Debug/VACF.build/VACF-project-headers.hmap -F/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/Debug -I/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/Debug/include -I/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/VACF.build/Debug/VACF.build/DerivedSources/x86_64 -I/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/VACF.build/Debug/VACF.build/DerivedSources -c /Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/main.c -o /Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/VACF.build/Debug/VACF.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/gruenero/Workspace/D3Q27/VACF/build/Debug/VACF normal x86_64
+s325748562.880752
+e325748563.256870
+r1
+xLd
+x/Users/gruenero/Workspace/D3Q27/VACF/build/Debug/VACF
+xnormal
+xx86_64
+lSLF07#2@58"Link /Users/gruenero/Workspace/D3Q27/VACF/build/Debug/VACF325748562#325748563#0(0"0(0#0#0"8603508064#476"    cd /Users/gruenero/Workspace/D3Q27/VACF    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/gruenero/Workspace/D3Q27/VACF/build/Debug -F/Users/gruenero/Workspace/D3Q27/VACF/build/Debug -filelist /Users/gruenero/Workspace/D3Q27/VACF/build/VACF.build/Debug/VACF.build/Objects-normal/x86_64/VACF.LinkFileList -mmacosx-version-min=10.6 -o /Users/gruenero/Workspace/D3Q27/VACF/build/Debug/VACF0#
+
+CLd /Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/Debug/VACF normal x86_64
+s317164421.480423
+e317164421.495442
+r1
+xLd
+x/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/Debug/VACF
+xnormal
+xx86_64
+lSLF07#2@71"Link /Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/Debug/VACF317164421#317164421#0(0"0(0#0#0"4300885448#541"    cd /Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/Debug -F/Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/Debug -filelist /Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/VACF.build/Debug/VACF.build/Objects-normal/x86_64/VACF.LinkFileList -mmacosx-version-min=10.6 -o /Users/gruenero/Workspace/Diplomarbeit/D3Q27/VACF/build/Debug/VACF0#
+
