@@ -326,12 +326,12 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>9A65069C13993B53004038EC</string>
+										<string>9ACB723313C721EE00E18E5B</string>
 										<key>history</key>
 										<array>
 											<string>9A97A441136AC066005574BB</string>
 											<string>9AA4BA55137ACA78009B7C18</string>
-											<string>9AF683481386F79100642BC8</string>
+											<string>9A65069C13993B53004038EC</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -343,14 +343,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1254, 689}}</string>
+								<string>{{0, 0}, {1254, 687}}</string>
 								<key>RubberWindowFrame</key>
 								<string>240 209 1440 819 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>689pt</string>
+							<string>687pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -363,14 +363,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 694}, {1254, 84}}</string>
+								<string>{{0, 692}, {1254, 86}}</string>
 								<key>RubberWindowFrame</key>
 								<string>240 209 1440 819 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>84pt</string>
+							<string>86pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -389,9 +389,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>9A65069713993B09004038EC</string>
+				<string>9ACB723413C721EE00E18E5B</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>9A65069813993B09004038EC</string>
+				<string>9ACB723513C721EE00E18E5B</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -529,7 +529,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>9AC6AD1512E73A7500FF3E2E</string>
 		<string>/Users/gruenero/Workspace/D3Q27/VACF/VACF.xcodeproj</string>
 	</array>
@@ -611,7 +610,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>9AC6AD1512E73A7500FF3E2E</string>
-				<string>9A65069913993B09004038EC</string>
+				<string>9ACB723613C721EE00E18E5B</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
